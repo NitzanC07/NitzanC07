@@ -1,4 +1,8 @@
-### Hi there 👋
+### Who am I?
+
+I am a versatile professional with a solid background in education and fitness coaching, currently working as a web developer. I bring a diverse range of interests and experiences to my work, infusing each project with a unique blend of creativity and practicality.
+
+My love for learning is at the heart of everything I do, and I am constantly seeking out new skills and technologies to add to my toolkit. Whether it's exploring the latest programming languages or delving into the latest fitness trends, I approach each new challenge with enthusiasm and a hunger for knowledge.
 
 <!--
 **NitzanC07/NitzanC07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
