@@ -1,9 +1,12 @@
 <h1 align="center">NITZAN COHEN</h1>
+<h2 align="center">Full Stack Engineer</h2>
 
 ## Who am I ?
 I am a versatile professional with a solid background in education and fitness coaching, currently working as a web developer. I bring a diverse range of interests and experiences to my work, infusing each project with a unique blend of creativity and practicality.
 
 My love for learning is at the heart of everything I do, and I am constantly seeking out new skills and technologies to add to my toolkit. Whether it's exploring the latest programming languages or delving into the latest fitness trends, I approach each new challenge with enthusiasm and a hunger for knowledge.
+
+
 
 ## What am I doing now ?
 - Fitness and Running: I developed a personalized web application that includes a range of healthy calculators, fitness tests, and training plan guides. My goal is to help people achieve their fitness goals by providing them with the resources and knowledge they need to create a sustainable workout routine.
