@@ -15,4 +15,4 @@ My love for learning is at the heart of everything I do, and I am constantly see
 - Book Sharing: I created a website that enables book enthusiasts from all over the world to share their own bookshelves and exchange books with each other. This platform encourages a love of reading and fosters a sense of community among book lovers.
 
 ## 💼 In my toolkit
-Java Script | HTML | CSS | React.js | Redux | Node.js | Express.js | MongoDB | Git & GitHub | Vercel
+Java Script | TypeScript | HTML | CSS | React.js | Redux | Next.js | Node.js | Express.js | MongoDB | Redis | Git & GitHub | Vercel
