@@ -16,3 +16,7 @@ My love for learning is at the heart of everything I do, and I am constantly see
 
 ## 💼 In my toolkit
 Java Script | TypeScript | HTML | CSS | React.js | Redux | Next.js | Node.js | Express.js | MongoDB | Redis | Git & GitHub | Python | Vercel
+
+## Contact me
+E-mail: nitzancohen@hotmail.com
+LinkedIn: https://www.linkedin.com/in/nitzancohen-web/
