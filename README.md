@@ -15,7 +15,11 @@ My love for learning is at the heart of everything I do, and I am constantly see
 - Developed and powered a dynamic, responsive, and user-friendly single-page application (SPA) for a smallbusinesses using React.js
 
 ## 💼 In my toolkit
-Java Script | TypeScript | HTML | CSS | React.js | Redux | Next.js | Node.js | Express.js | MongoDB | Redis | Git & GitHub | Python | Vercel
+- Programming Languages: Typescript, Javascript, Python, HTML & CSS.
+- Frontend Technologies: React, NextJS, Redux.
+- Backend Technologies: NodeJS, Express.
+- Databases: MongoDB.
+- Coding managment: Git & GitHub, Vercel
 
 ## 🕾 Contact me
 E-mail: nitzancohen@hotmail.com\
