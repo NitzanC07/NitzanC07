@@ -11,11 +11,12 @@ My love for learning is at the heart of everything I do, and I am constantly see
 * [My resume](./CV_NitzanCohen.pdf)
 
 ## 💡 What am I doing now ?
-- I spearheaded the conceptualization, development, and leadership of ExpressUs (' להביע אותנו '), an inventive app specifically crafted to enhance communication among individuals with Autism. This groundbreaking platform includes a conversational chat feature, a digital notebook function, and a specialized section tailored for keyboard training and skill advancement.
+- I spearheaded the conceptualization, development, and leadership of ThoughtToExpression (' ממחשבה להבעה '), an inventive app specifically crafted to enhance communication among individuals with Autism. This groundbreaking platform includes a conversational chat feature, a digital notebook function, and a specialized section tailored for keyboard training and skill advancement.
+- Developing with React Native framework a communicate system between fitness coaches and their trainees toencorge them make independent training at home. This project is for Eitan - Everybody Can organization.
 - Developed and powered a dynamic, responsive, and user-friendly single-page application (SPA) for a smallbusinesses using React.js
 
 ## 💼 In my toolkit
-- Programming Languages: Typescript, Javascript, Python, HTML & CSS.
+- Programming Languages: HTML & CSS, Javascript, Typescript, Python.
 - Frontend Technologies: React, NextJS, Redux.
 - Backend Technologies: NodeJS, Express.
 - Databases: MongoDB.
